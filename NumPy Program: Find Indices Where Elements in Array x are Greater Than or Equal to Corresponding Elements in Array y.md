@@ -24,7 +24,7 @@ print(eq)Output
 ```
 
 ## Output
-![5 2](https://github.com/user-attachments/assets/e3b1881f-f234-46c3-9558-401d45e01018)
+![5 3](https://github.com/user-attachments/assets/0e0b0671-abc1-4a9f-a978-de0052e0f504)
 
 ## Result
 Thus the program that finds the indices where elements in array x are greater than or equal to their corresponding elements in array y is executed successfully.
